@@ -11,7 +11,7 @@ Este repositório faz parte do desafio da formação em Git e Github da DIO. O o
 
 ## Desafios
 
-- Soma de dois números
+- Concaternar dois dados vindos do usuário em uma única string
 - Verificar se um número é primo
 - Calcular o fatorial de um número
 - Inverter uma string
