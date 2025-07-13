@@ -13,8 +13,7 @@ Este repositório faz parte do desafio da formação em Git e Github da DIO. O o
 
 - Concaternar dois dados vindos do usuário em uma única string
 - Multiplicar uma string por um número inteiro vindo do usuário
-- Calcular o fatorial de um número
-- Inverter uma string
+- Realizar operações matemáticas simples com números fornecidos pelo usuário
 
 Sinta-se à vontade para adicionar outros desafios e soluções!
 
