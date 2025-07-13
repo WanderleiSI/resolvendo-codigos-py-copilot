@@ -12,7 +12,7 @@ Este repositório faz parte do desafio da formação em Git e Github da DIO. O o
 ## Desafios
 
 - Concaternar dois dados vindos do usuário em uma única string
-- Verificar se um número é primo
+- Multiplicar uma string por um número inteiro vindo do usuário
 - Calcular o fatorial de um número
 - Inverter uma string
 
