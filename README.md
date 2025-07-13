@@ -15,7 +15,6 @@ Este repositório faz parte do desafio da formação em Git e Github da DIO. O o
 - Multiplicar uma string por um número inteiro vindo do usuário
 - Realizar operações matemáticas simples com números fornecidos pelo usuário
 
-Sinta-se à vontade para adicionar outros desafios e soluções!
 
 ## Como rodar os algoritmos
 
